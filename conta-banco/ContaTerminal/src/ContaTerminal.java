@@ -5,7 +5,7 @@ public class ContaTerminal {
 // TODO:conhecer e importar  a classe Scanner.
 // exibir as mensagens  para uso do usuário.
 //obter pelo scanner os valores digitados pelo usuário;
-    Scanner scanner = new Scanner(System.in);    
+    Scanner scanner = new Scanner(System.in);  
    
     int conta;
     double saldo;
